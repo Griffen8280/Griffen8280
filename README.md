@@ -2,7 +2,7 @@
   <img src="http://vignette1.wikia.nocookie.net/zimwiki/images/c/ca/GIR_riding_Piggy.png/revision/latest?cb=20120509234605" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/chris-pence">
+  <a href="www.linkedin.com/in/chris-pence" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></br>
   <img src="https://komarev.com/ghpvc/?username=Griffen8280&style=flat-square&color=blue" alt=""/>
